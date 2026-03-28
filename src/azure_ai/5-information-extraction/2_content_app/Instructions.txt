@@ -1,0 +1,7 @@
+Develop a Content Understanding client application
+Use Azure AI Content Understanding REST API to develop a client app for an analyzer.
+
+Source: https://github.com/MicrosoftLearning/mslearn-ai-information-extraction/blob/main/Instructions/Labs/02-content-understanding-api.md
+
+In this exercise, you use Azure AI Content Understanding to create an analyzer that extracts information from business cards. 
+You'll then develop a client application that uses the analyzer to extract contact details from scanned business cards.

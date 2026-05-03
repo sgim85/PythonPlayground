@@ -48,7 +48,7 @@ By following these steps, you ensure that your project dependencies are consiste
     * Via Smart Send (*Shift+Enter*) and "Run Selection/Line in Python REPL" by setting "python.REPL.sendToNativeREPL": true in your settings.json file. NOTE: You can opt to continue to use the REPL built-in to Python located in the terminal ( >>> ) by setting "python.REPL.sendToNativeREPL": false in your settings.json.
 
 ### Jupyter Notebooks
-Jupyter is an open-source project that lets you easily combine Markdown text and executable Python source code on one canvas called a **notebook**. [Learn more](https://code.visualstudio.com/docs/python/jupyter-support-py) about Jupyter support in VS Code.
+Jupyter is an open-source project that lets you easily combine  text and executable Python source code on one canvas called a **notebook**. [Learn more](https://code.visualstudio.com/docs/python/jupyter-support-py) about Jupyter support in VS Code.
 
 ### Miscellaneous
 * VS code comes with a "Python Profile" that you can enable. A good starting point for Python development as it sets up a lot of prerequisites: extensions, libraries, settings, etc.
